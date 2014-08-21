@@ -1,4 +1,4 @@
-ledger
+Ledger
 ======
 
-A simple to run BI on my ledger
+A simple rails app which represents a receipts ledger that can have Business Intelligence reports run against it.
